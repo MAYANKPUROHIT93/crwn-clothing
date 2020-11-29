@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import DomeCage from './homepage.component';
+import DomeCage from './pages/homepage/homepage.component';
 
 function App() {
   return (
